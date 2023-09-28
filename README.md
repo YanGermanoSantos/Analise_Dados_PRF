@@ -13,5 +13,7 @@ O objetivo central desta análise é compreender a causa predominante de acident
 
 - Aprimorar a Segurança Viária: Com base nas conclusões, buscaremos recomendações para aprimorar a segurança nas estradas, concentrando-nos em estratégias direcionadas para mitigar a causa principal de acidentes e prevenir incidentes em cenários de alto risco.
 
+Para acessar o código onde foi feita analise basta clicar nesse link: [Análise colab]()
+
 # Conjunto de Dados 📚
 - Fonte: O conjunto de dados foi obtido a partir do site oficial da PRF e é um compêndio de registros de acidentes de trânsito de várias regiões do Brasil. pode ser acessado através do seguinte link: [Dados Abertos da PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf).
