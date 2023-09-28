@@ -1,8 +1,10 @@
+# Análise de Dados da PRF 🛣
+
 <p align="center">
   <img alt="Série A" width="80%" src="https://img.freepik.com/fotos-gratis/aereo-vista-suzhou-viaduto-noturna_1359-528.jpg?w=1480&t=st=1695941215~exp=1695941815~hmac=2b78a8693ade18efc4db1f1badea1332fe2ea878d0d7777078ad50dba76c21f9">
 </p>
 
-# Análise de Dados da PRF 🛣
+# Objetivo da análise 🎯
 O objetivo central desta análise é compreender a causa predominante de acidentes nas estradas brasileiras e explorar os cenários propensos a esses incidentes. Nosso foco reside em identificar padrões e tendências que nos permitam aprofundar nosso conhecimento sobre os fatores subjacentes aos acidentes rodoviários no Brasil.
 
 - Identificar a Principal Causa de Acidentes: Analisaremos os dados para determinar a causa mais frequente de acidentes nas estradas brasileiras, proporcionando uma compreensão mais clara dos desafios enfrentados em termos de segurança viária.
