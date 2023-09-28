@@ -15,7 +15,7 @@ O objetivo central desta análise é compreender a causa predominante de acident
 
 Para acessar o código onde foi feita analise basta clicar nesse link: [Análise colab](https://colab.research.google.com/github/YanGermanoSantos/Analise_Dados_PRF/blob/main/Analise_PRF.ipynb)
 
-**Para acessar apresentação da análise [clique aqui]**(https://www.canva.com/design/DAFvSks1DGo/1ZHXiPJp0gntKh7jXDcXKA/view?utm_content=DAFvSks1DGo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+**Para acessar apresentação da análise** [clique aqui](https://www.canva.com/design/DAFvSks1DGo/1ZHXiPJp0gntKh7jXDcXKA/view?utm_content=DAFvSks1DGo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 # Conjunto de Dados 📚
 - Fonte: O conjunto de dados foi obtido a partir do site oficial da PRF e é um compêndio de registros de acidentes de trânsito de várias regiões do Brasil. pode ser acessado através do seguinte link: [Dados Abertos da PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf).
