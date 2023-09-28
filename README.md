@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Série A" width="50%" src="https://img.freepik.com/fotos-gratis/estrada-na-floresta_1127-3049.jpg?w=1380&t=st=1695940842~exp=1695941442~hmac=9d754035d34118ee86b9f60a1dab4383e6322392cc7ebf67f1bfab50b8814fcb">
+  <img alt="Série A" width="50%" src="https://img.freepik.com/fotos-gratis/foto-de-uma-estrada-rodeada-por-campos-de-grama-seca-sob-um-ceu-durante-o-por-do-sol_181624-10934.jpg?w=1380&t=st=1695941098~exp=1695941698~hmac=227fdd3e5db535db79896690ab8b5ca435a1310dc989332c21eb6acfd6a8901d">
 </p>
 # Análise de Dados da PRF 🛣
 O objetivo central desta análise é compreender a causa predominante de acidentes nas estradas brasileiras e explorar os cenários propensos a esses incidentes. Nosso foco reside em identificar padrões e tendências que nos permitam aprofundar nosso conhecimento sobre os fatores subjacentes aos acidentes rodoviários no Brasil.
